@@ -1,0 +1,7 @@
+{
+  "name": "miPrimerTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
